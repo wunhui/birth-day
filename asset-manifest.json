@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/birth-day/static/js/main.3c3e9f18.js",
+    "static/js/453.37cfcefc.chunk.js": "/birth-day/static/js/453.37cfcefc.chunk.js",
+    "index.html": "/birth-day/index.html",
+    "main.3c3e9f18.js.map": "/birth-day/static/js/main.3c3e9f18.js.map",
+    "453.37cfcefc.chunk.js.map": "/birth-day/static/js/453.37cfcefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c3e9f18.js"
+  ]
+}
